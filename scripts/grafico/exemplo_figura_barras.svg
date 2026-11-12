@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" width="900" height="450" font-family="Calibri, 'Segoe UI', Arial, sans-serif">
+<rect width="900" height="450" fill="#fff"/>
+<text x="30" y="42" font-size="20" font-weight="bold" fill="#1a2230" text-anchor="start">Duas contas concentram 68% dos repasses (R$ 790 de 1.160 mil)</text>
+<text x="30" y="62" font-size="12" font-weight="normal" fill="#4a5364" text-anchor="start">Repasses por conta de destino, em R$ mil (exemplo com dados ficticios)</text>
+<rect x="22" y="76" width="311" height="26" fill="#f4f6fa" stroke="#d6dbe4"/>
+<rect x="30" y="82" width="22" height="14" fill="#0072B2" stroke="#0072B2" stroke-width="1.5" stroke-dasharray=""/>
+<text x="58" y="93" font-size="11" font-weight="normal" fill="#1a2230" text-anchor="start">Confirmado</text>
+<rect x="132.6796875" y="82" width="22" height="14" fill="#0072B233" stroke="#0072B2" stroke-width="1.5" stroke-dasharray="6 3"/>
+<text x="160.6796875" y="93" font-size="11" font-weight="normal" fill="#1a2230" text-anchor="start">Inferido</text>
+<rect x="217.66484375" y="82" width="22" height="14" fill="#fff" stroke="#8a8f9c" stroke-width="1.5" stroke-dasharray="1.5 3"/>
+<text x="245.66484375" y="93" font-size="11" font-weight="normal" fill="#1a2230" text-anchor="start">Nao identificado</text>
+<text x="180" y="148" font-size="13" font-weight="normal" fill="#1a2230" text-anchor="end">Conta A</text>
+<rect x="190" y="130" width="520.0" height="26" fill="#0072B2" stroke="#0072B2" stroke-width="1.5" stroke-dasharray=""/>
+<text x="718.0" y="142" font-size="12" font-weight="bold" fill="#1a2230" text-anchor="start">R$ 480 mil</text>
+<text x="718.0" y="154" font-size="9.5" font-weight="normal" fill="#4a5364" text-anchor="start">extrato fls. 12-14</text>
+<text x="180" y="196" font-size="13" font-weight="normal" fill="#1a2230" text-anchor="end">Conta B</text>
+<rect x="190" y="178" width="335.8" height="26" fill="#0072B2" stroke="#0072B2" stroke-width="1.5" stroke-dasharray=""/>
+<text x="533.8333333333333" y="190" font-size="12" font-weight="bold" fill="#1a2230" text-anchor="start">R$ 310 mil</text>
+<text x="533.8333333333333" y="202" font-size="9.5" font-weight="normal" fill="#4a5364" text-anchor="start">extrato fls. 15-16</text>
+<text x="180" y="244" font-size="13" font-weight="normal" fill="#1a2230" text-anchor="end">Conta C</text>
+<rect x="190" y="226" width="238.3" height="26" fill="#0072B233" stroke="#0072B2" stroke-width="1.5" stroke-dasharray="6 3"/>
+<text x="436.3333333333333" y="238" font-size="12" font-weight="bold" fill="#1a2230" text-anchor="start">R$ 220 mil</text>
+<text x="436.3333333333333" y="250" font-size="9.5" font-weight="normal" fill="#4a5364" text-anchor="start">cruzamento por chave PIX</text>
+<text x="180" y="292" font-size="13" font-weight="normal" fill="#1a2230" text-anchor="end">Conta D</text>
+<rect x="190" y="274" width="97.5" height="26" fill="#0072B233" stroke="#0072B2" stroke-width="1.5" stroke-dasharray="6 3"/>
+<text x="295.5" y="286" font-size="12" font-weight="bold" fill="#1a2230" text-anchor="start">R$ 90 mil</text>
+<text x="295.5" y="298" font-size="9.5" font-weight="normal" fill="#4a5364" text-anchor="start">cruzamento por chave PIX</text>
+<text x="180" y="340" font-size="13" font-weight="normal" fill="#1a2230" text-anchor="end">Conta E</text>
+<rect x="190" y="322" width="65.0" height="26" fill="#fff" stroke="#8a8f9c" stroke-width="1.5" stroke-dasharray="1.5 3"/>
+<text x="263.0" y="334" font-size="12" font-weight="bold" fill="#1a2230" text-anchor="start">R$ 60 mil</text>
+<text x="263.0" y="346" font-size="9.5" font-weight="normal" fill="#4a5364" text-anchor="start">titular nao informado</text>
+<line x1="30" y1="380" x2="870" y2="380" stroke="#d6dbe4"/>
+<text x="30" y="396" font-size="9.5" font-weight="normal" fill="#4a5364" text-anchor="start">Fonte: dados sinteticos de exemplo (fls. 12-16) | SHA512 dos dados: fd3f175ba7d7... | Elaborado em 2026-09-30</text>
+</svg>

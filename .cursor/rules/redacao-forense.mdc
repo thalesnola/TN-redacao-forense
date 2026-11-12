@@ -1,0 +1,28 @@
+---
+description: Diretrizes de redação forense e elaboração de IPJs e relatórios de inteligência policial, verificadas contra acervo de 90 peças assinadas
+globs: ["**/*.md", "**/*.docx", "**/*.txt", "**/*.tex"]
+alwaysApply: true
+---
+
+# Redação forense e IPJs
+
+Detalhe completo, exemplos e citações: `AGENTS.md` e `skills/redacao-forense/SKILL.md`.
+
+1. **Leitor leigo, conteúdo técnico:** traduzir o termo técnico numa frase logo após citá-lo;
+   simular o raciocínio do leigo/vítima em vez de só declarar a limitação; exemplo hipotético
+   e diagrama em texto antes de aplicar o conceito ao caso.
+2. **Voz:** primeira pessoa no juízo ("entendemos", "afirmo"), impessoal no dado
+   ("constata-se que"). Autolimitação antecipada obrigatória no contexto, com "Não obstante"
+   e o que se sustenta apesar dela.
+3. **Escada de certeza:** cada afirmação no grau que a prova sustenta; "em tese" obrigatório
+   para imputação de crime/papel/intenção, nunca para o dado técnico.
+4. **Análise patrimonial:** eixo DECLARADO × OBSERVADO/CONSTATADO, nunca "Fórmula do Crédito
+   Descoberto" como termo fixo.
+5. **Estrutura por gênero:** analítica longa ≠ pedido de medida judicial (seção por requisito
+   legal, pedido resumido no início) ≠ gêneros curtos (sem saudação obrigatória). Fecho varia
+   por gênero.
+6. **Restrições mandatórias:** zero emoji, zero ASCII art de organograma, zero meta-texto
+   sobre scripts/LLM/prompt no documento final; nunca nomear sistema policial; nunca corrigir
+   transcrição literal do investigado.
+7. **Revisão gramatical:** concordância verbal com sujeito posposto, crase, particípio em voz
+   passiva — ver `skills/redacao-forense/references/erros-recorrentes.md`.

@@ -1,0 +1,17 @@
+# Diretrizes de redação forense e elaboração de IPJs (Windsurf / Cascade)
+
+Detalhe completo, exemplos e citações: `AGENTS.md` e `skills/redacao-forense/SKILL.md`.
+
+- O leitor é leigo mesmo quando o conteúdo é técnico: traduzir termo técnico numa frase logo
+  após citá-lo, sem simplificar o conteúdo.
+- Primeira pessoa no juízo, impessoal no dado. Nunca inverter.
+- Autolimitação antecipada obrigatória no contexto, seguida de "Não obstante" e do que se
+  sustenta apesar dela.
+- Cada afirmação no grau de certeza que a prova sustenta; "em tese" só para imputação de
+  crime/papel/intenção, nunca para o dado técnico.
+- Análise patrimonial no eixo DECLARADO × OBSERVADO/CONSTATADO.
+- Estrutura muda por gênero de peça (analítica longa, pedido de medida judicial, gêneros
+  curtos) — não existe um esqueleto único nem um fecho único.
+- Proibido: emoji, ASCII art, nomear sistema policial, corrigir transcrição literal do
+  investigado, suavizar a limitação da própria análise.
+- Revisar sempre concordância verbal com sujeito posposto, crase e particípio em voz passiva.

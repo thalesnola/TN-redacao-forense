@@ -1,0 +1,19 @@
+# Ambientes e dependências locais
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+node_modules/
+
+# Arquivos temporários de editores e SO
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+~$*.docx
+~$*.xlsx
+*.swp
+
+# Logs locais
+*.log

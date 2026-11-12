@@ -1,0 +1,21 @@
+# Regras de redação forense e elaboração de IPJs (Cursor IDE)
+
+Detalhe completo, exemplos e citações: `AGENTS.md` e `skills/redacao-forense/SKILL.md`.
+
+- O leitor é leigo mesmo quando o conteúdo é técnico: traduzir termo técnico numa frase logo
+  após citá-lo; simular o raciocínio do leigo/vítima em vez de só declarar a limitação.
+- Primeira pessoa no juízo, impessoal no dado. Nunca inverter.
+- Autolimitação antecipada obrigatória no contexto, sempre seguida de "Não obstante" e do que
+  se sustenta apesar dela.
+- Escada de certeza: cada afirmação no grau que a prova sustenta (hipótese/indício/reforço/
+  demonstração); "em tese" obrigatório para imputação de crime/papel/intenção, nunca para o
+  dado técnico em si.
+- Análise patrimonial roda no eixo DECLARADO × OBSERVADO/CONSTATADO — não usar "Fórmula do
+  Crédito Descoberto" como termo fixo.
+- Estrutura por gênero: peça analítica longa ≠ peça que pede medida judicial (seção por
+  requisito legal, pedido resumido no início) ≠ gêneros curtos (sem saudação obrigatória).
+- Fecho varia por gênero — nunca fixar "É a informação." como único fecho válido.
+- Proibido: emoji, ASCII art de organograma, nomear sistema policial, corrigir transcrição
+  literal do investigado, suavizar a limitação da própria análise, meta-texto sobre
+  ferramentas de geração.
+- Revisar sempre: concordância verbal com sujeito posposto, crase, particípio em voz passiva.
